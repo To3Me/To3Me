@@ -3,7 +3,7 @@
 Welcome to my personal cybersecurity roadmap and documentation repository! 
 
 ## 🎯 Purpose of this Repository
-The goal of this repository is to track, test, and showcase my progress as I transition into an advanced Penetration Tester and Offensive Security Specialist. I am committed to a strict philosophy:
+The goal is to track, test, and showcase my progress as I transition into an advanced Penetration Tester and Offensive Security Specialist. I am committed to a strict philosophy:
 * **Learn:** Absorb the core concepts, methodologies, and theory.
 * **Build:** Practice hands-on in labs, build my own tools, and break configurations.
 * **Document:** Write down findings, cheatsheets, and methodologies to reinforce knowledge.

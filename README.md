@@ -36,18 +36,18 @@ Below is my structured path from absolute beginner (`0`) to advanced certificati
 | Level / Cert | Status | Target Date / Completed |
 | :--- | :---: | :---: |
 | 🌐 Fundamentals & Linux/Windows | 🟩 In Progress | Q3 2026 |
-| 🛡️ eJPT | ⬜ Not Started | -- |
-| 🕸️ eWPT | ⬜ Not Started | -- |
-| 🏢 PT1 / PNPT | ⬜ Not Started | -- |
-| 🏆 OSCP | ⬜ Not Started | -- |
+| 🛡️ eJPT | ⬜ Not Started | Q4 2026 -- Q1 2027|
+| 🕸️ eWPT | ⬜ Not Started | Q2 2027 -- Q3 2027 |
+| 🏢 PT1 / PNPT | ⬜ Not Started | Q4 2027 -- Q1 2028|
+| 🏆 OSCP | ⬜ Not Started | Q3 2028|
 | 👑 OSEP / CRTO | ⬜ Not Started | -- |
 
 ---
 
 ## 🛠️ Tech Stack & Lab Environment
-*   **OS:** Kali Linux, Parrot OS, Windows Server (AD Lab)
+*   **OS:** Kali Linux, Linux, Windows Server (AD Lab)
 *   **Languages:** Bash, Python, PowerShell
-*   **Platforms:** TryHackMe | Hack The Box | PortSwigger Labs
+*   **Platforms:** TryHackMe | Hack The Box 
 
 ---
 

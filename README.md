@@ -8,6 +8,8 @@ The goal is to track, test, and showcase my progress as I transition into an adv
 * **Build:** Practice hands-on in labs, build my own tools, and break configurations.
 * **Document:** Write down findings, cheatsheets, and methodologies to reinforce knowledge.
 
+Check out my journey: [Cybersecurity Path](https://github.com/to3me/from-zero-to-root)
+ 
 ---
 
 ## 🗺️ The Offensive Security Roadmap
